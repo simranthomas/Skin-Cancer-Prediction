@@ -16,3 +16,6 @@ Melanoma is one of the deadliest forms of skin cancer that is caused by abnormal
 	- Segmentation
 	- Feature extraction
 	- Feed Formation
+	
+### Data Flow Diagram
+
